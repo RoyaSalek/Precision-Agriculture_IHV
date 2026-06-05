@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# YOLO models
+*.pt
+
+# YOLO outputs
+runs/
+
+# Test images
+bus.jpg
+
+# macOS
+.DS_Store
