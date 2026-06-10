@@ -21,3 +21,4 @@ data/original_test_images/
 # VS Code
 .vscode/runs/
 *.cache
+data/
