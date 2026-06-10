@@ -1,24 +1,40 @@
 # macOS
+
 .DS_Store
 
-# Python
+# Python Virtual Environments
+
 venv/
-__pycache__/
+.venv/
+
+# Python Cache
+
+**pycache**/
 *.pyc
-
-# YOLO
-runs/
-*.pt
-*.cache
-
-# Data
-data/raw/
-data/original_test_images/
+*.pyo
+*.pyd
 
 # Jupyter
+
 .ipynb_checkpoints/
 
 # VS Code
-.vscode/runs/
+
+.vscode/
+
+# YOLO Training Artifacts
+
+runs/
 *.cache
+
+# Trained Models
+
+*.pt
+
+# Datasets and Test Images
+
 data/
+
+# Logs
+
+*.log
