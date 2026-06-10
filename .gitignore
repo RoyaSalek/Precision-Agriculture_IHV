@@ -19,4 +19,5 @@ data/original_test_images/
 .ipynb_checkpoints/
 
 # VS Code
-.vscode/
+.vscode/runs/
+*.cache
