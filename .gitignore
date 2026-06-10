@@ -1,17 +1,22 @@
-# YOLO models
-*.pt
-
-# YOLO outputs
-runs/
-
-# Temporary test files
-bus.jpg
+# macOS
+.DS_Store
 
 # Python
 venv/
 __pycache__/
 *.pyc
 
-# macOS
-.DS_Store
-.DS_Store
+# YOLO
+runs/
+*.pt
+*.cache
+
+# Data
+data/raw/
+data/original_test_images/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
