@@ -38,3 +38,6 @@ data/
 # Logs
 
 *.log
+
+#notebooks
+.ipynb_checkpoints/
