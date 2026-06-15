@@ -41,3 +41,6 @@ data/
 
 #notebooks
 .ipynb_checkpoints/
+
+# 470 git data
+smart_vine_monitoring/
