@@ -44,3 +44,6 @@ data/
 
 # 470 git data
 smart_vine_monitoring/
+
+# Partner reference checkout, not owned by this repo
+ihv/
